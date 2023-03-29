@@ -1,5 +1,5 @@
 """
-Write a c++ code for a gym management system.
+Write a code for a gym management system.
 The system should have user and admin login options. The users can enter their details
 (name, contact information, gym member number, training time and gym
 membership i.e. gold, silver, platinum or beginner) , make payments and see their workout plans.
